@@ -1,2 +1,2 @@
-## Build a Dog dating website call Tindog using only HTML+CSS 
-https://justramle.github.io/tinpet/
+## 🐶 Web-app for dog looking for their friendship, playdates, and pup lover
+🌸 https://justramle.github.io/tinpet/
